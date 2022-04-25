@@ -27,3 +27,7 @@ Setiap bagian dari aplikasi yang memungkinkan pengguna memasukkan data merupakan
 - dsaf
 
 - 
+
+# References
+- GitHub Go SCP. 2022. GitHub - OWASP/Go-SCP: Go programming language secure coding practices guide. [online] Available at: <https://github.com/OWASP/Go-SCP> [Accessed 25 April 2022].
+- Owasp.org. 2022. OWASP Top 10 Web App. [online] Available at: <https://owasp.org/Top10/> [Accessed 25 April 2022].
